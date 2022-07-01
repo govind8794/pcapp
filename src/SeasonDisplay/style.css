@@ -1,0 +1,18 @@
+.container {
+  height: 100vh;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-left {
+    position: absolute;
+    top: 8px;
+    left: 8px;
+  }
+
+  .icon-right {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+  }
