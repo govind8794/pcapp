@@ -13,3 +13,4 @@ export const ImageList = ({ images }) => {
     </div>
   );
 };
+

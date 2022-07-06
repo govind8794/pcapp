@@ -26,3 +26,4 @@ export class ImageCard extends React.Component {
     );
   }
 }
+
