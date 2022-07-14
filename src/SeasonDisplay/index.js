@@ -14,7 +14,7 @@ export const SeasonDisplay = (props) =>{
          content.text ='Lets hit the beach';
          content.icon = 'sun'
      }else{
-         content.text ='Burr, it is Chilly';
+         content.text ='Burr, it is Snow flake ';
          content.icon = 'snowflake'
      }
 
